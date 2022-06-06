@@ -62,9 +62,9 @@ Users should be able to:
 ## Author
 
 - Website - [Abiona Olushola Jude](https://olushola-abiona.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@Abiona-0lushola-Jude)
+- Frontend Mentor - @Abiona-0lushola-Jude(https://www.frontendmentor.io/profile/@Abiona-0lushola-Jude)
 - Twitter - [@abiona_jude](https://www.twitter.com/abiona_jude)
-
+ 
 
 
 ## Acknowledgments
