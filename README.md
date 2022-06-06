@@ -28,8 +28,8 @@ Users should be able to:
 - click the green box to get new advice tips if the 5 mins interval is not okay by them.
 
 ### Screenshot
+![_C__Users_ABIONA%20OLUSHOLA_Documents_Web%20Development%20files_FrontMentor%20Challenges_Advice%20app%20generator_advice-app-generator_index html](https://user-images.githubusercontent.com/103720345/172260071-956478c4-c8e6-4a42-b2d0-6ade8c1f260c.png)
 
-![](./screenshot.jpg)
 
 - Here is the screenshot of how the app looks like on the web.
 
